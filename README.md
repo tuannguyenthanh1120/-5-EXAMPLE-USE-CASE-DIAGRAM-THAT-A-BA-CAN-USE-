@@ -31,10 +31,16 @@ Sơ đồ Use case mô tả mối quan hệ giữa người dùng, hệ thống 
 •	Ngôn ngữ lập trình
 # Làm thế nào để bạn viết một sơ đồ Use case?
 Để xây dựng bản vẽ Use Case, bạn có thể tuân theo các bước sau đây:
+
 •	Xác định các Use Case chính: Đầu tiên, xác định các Use Case chính trong hệ thống. Đây là những Use Case quan trọng nhất và mang tính cốt lõi của hệ thống. Xác định các chức năng và hoạt động chính mà hệ thống cung cấp và mô phỏng.
-•	Xác định tác nhân (Actors): Xác định các tác nhân liên quan đến mỗi Use Case. Tác nhân có thể là người dùng cuối, hệ thống bên ngoài, hoặc bất kỳ thực thể nào khác tương tác với hệ thống. Ghi lại các tác nhân này để hiểu rõ người hoặc thành phần nào liên quan đến mỗi Use Case.
+
+•	Xác định tác nhân (Actors): Xác định các tác nhân liên quan đến mỗi Use Case. Tác nhân có thể là người dùng cuối, hệ thống bên ngoài, hoặc bất kỳ thực thể nào khác tương tác với hệ thống. Ghi lại các tác nhân này để hiểu rõ người hoặc thành phần nào liên quan đến mỗi Use Case
+.
 •	Vẽ biểu đồ Use Case: Sử dụng biểu đồ Use Case UML để biểu diễn các Use Case và mối quan hệ giữa chúng. Vẽ một hình chữ nhật cho mỗi Use Case, ghi tên Use Case bên trong hình chữ nhật đó. Sử dụng các mũi tên để chỉ ra mối quan hệ giữa các Use Case và tác nhân. Ví dụ, mũi tên từ tác nhân đến Use Case để chỉ tác nhân tham gia vào Use Case đó.
+
 •	Kết nối các Use Case: Sử dụng mũi tên để kết nối các Use Case với nhau. Điều này thể hiện mối quan hệ giữa các Use Case và sự tương tác giữa chúng. Ví dụ, một Use Case có thể kế thừa từ một Use Case khác, hoặc một Use Case có thể mở rộng một Use Case khác.
+
 •	Ghi chú và miêu tả: Bổ sung ghi chú và miêu tả cho mỗi Use Case để cung cấp thông tin bổ sung và giải thích chi tiết. Ghi chú có thể cung cấp thông tin về các ràng buộc, điều kiện tiền điều kiện hoặc bất kỳ thông tin nào quan trọng khác liên quan đến Use Case.
+
 •	Kiểm tra và điều chỉnh: Kiểm tra và rà soát biểu đồ Use Case để đảm bảo tính logic, đầy đủ và chính xác. Đảm bảo rằng biểu đồ Use Case phản ánh đúng yêu cầu và chức năng của hệ thống. Rà soát và điều chỉnh biểu đồ để đảm bảo nóViết một sơ đồ Use case liên quan đến việc giải cấu trúc các quy trình để tiết lộ tổng quan cơ bản về hệ thống của bạn.
 
